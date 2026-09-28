@@ -1,0 +1,8 @@
+{
+  "stat_date": "2026-09-26",
+  "note": "故意含一条非法数据的批量：整批应被拒绝，不写入任何事件（用于演示原子回滚）",
+  "items": [
+    {"source": "water", "seq": "S-BAD-BATCH", "stat_date": "2026-09-26", "region": "全国", "mode": "water", "category": "默认", "caliber": "水路旅客发送量", "passengers": "10.00"},
+    {"source": "rail", "seq": "R-BAD", "stat_date": "not-a-date", "region": "全国", "mode": "rail", "category": "动车组", "caliber": "铁路旅客发送量", "passengers": "1.00"}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "stat_date": "2026-09-26",
+  "note": "9月26日全社会跨区域人员流动量19946.2万人次；铁路、公路保留分类口径，数据为演示用虚构内容",
+  "items": [
+    {"source": "rail", "seq": "R-20260926-01", "stat_date": "2026-09-26", "region": "全国", "mode": "rail", "category": "动车组", "caliber": "铁路旅客发送量", "passengers": "1420.50"},
+    {"source": "rail", "seq": "R-20260926-02", "stat_date": "2026-09-26", "region": "全国", "mode": "rail", "category": "普速列车", "caliber": "铁路旅客发送量", "passengers": "380.20"},
+    {"source": "road", "seq": "H-20260926-01", "stat_date": "2026-09-26", "region": "全国", "mode": "road", "category": "营业性客车", "caliber": "营业性公路客运量", "passengers": "3450.00"},
+    {"source": "road", "seq": "H-20260926-02", "stat_date": "2026-09-26", "region": "全国", "mode": "road", "category": "非营业性客车", "caliber": "非营业性小客车出行量", "passengers": "14410.00"},
+    {"source": "water", "seq": "S-20260926-01", "stat_date": "2026-09-26", "region": "全国", "mode": "water", "category": "默认", "caliber": "水路旅客发送量", "passengers": "83.50"},
+    {"source": "air", "seq": "A-20260926-01", "stat_date": "2026-09-26", "region": "全国", "mode": "air", "category": "默认", "caliber": "民航旅客运输量", "passengers": "202.00"}
+  ]
+}
