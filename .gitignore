@@ -3,3 +3,7 @@ __pycache__/
 .venv/
 .env
 *.sqlite3
+
+# 归集状态与临时文件
+data/
+*.tmp
